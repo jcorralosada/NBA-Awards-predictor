@@ -14,3 +14,9 @@ Of the 12 players most likely to be selected in the East according to the ranker
 ![image](https://user-images.githubusercontent.com/93092616/145641471-07a5984d-f9af-40bf-9c75-fe6e15ca20e4.png)
 
 Each and every one of the players predicted to be All-Stars in this conference was selected for the game.
+
+
+## Prediction of the NBA MVP 2021
+![Captura](https://github.com/jcorralosada/NBA-Awards-predictor/assets/93092616/7c035a82-aee3-470e-9880-26fd3299cca3)
+
+The NBA MVP, as predicted, was Nikola Jokic. The other two players who were fighting for the award until the final vote were the ones in second and third position in the image, Joel Embid and Giannis Antetokoumpo.
